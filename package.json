@@ -1,0 +1,20 @@
+{
+  "name": "ig-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.2.0",
+    "instagram-private-api": "^1.40.1",
+    "instagram-web-api": "^2.2.0",
+    "lodash": "^4.17.15",
+    "typescript": "^3.9.5"
+  }
+}
